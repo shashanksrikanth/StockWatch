@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stock Watch</string>
+    <string name="rowStockSymbolValue">ABCD</string>
+    <string name="rowCompanyNameValue">Abcd</string>
+    <string name="rowPriceValue">123.45</string>
+    <string name="rowChangePercentageValue">(12.3%)</string>
+    <string name="rowPriceChangeValue">1.23</string>
+    <string name="rowChangeSymbolDescription">Price change positive or negative</string>
+    <string name="add_stock">Add Stock</string>
+</resources>
